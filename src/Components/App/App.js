@@ -7,6 +7,8 @@ import About from '../About/About';
 import september from '../PortfolioItemSpecifications/sept';
 import october from '../PortfolioItemSpecifications/oct'; 
 
+//wow I changed this file PLEASE commit 
+
 function App() {
   return (
     <div className="App">
