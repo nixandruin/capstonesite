@@ -1,0 +1,10 @@
+footer {
+    display: flex;  
+    background-color: rgb(35, 32, 32); 
+    color: white; 
+}
+
+footer p {
+    float: right;  
+    margin: 10px; 
+}

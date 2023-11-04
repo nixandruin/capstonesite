@@ -1,0 +1,76 @@
+.display-linebreak {
+    white-space: pre-line;
+}
+
+.portfolio-item {
+    background-color: rgb(253, 252, 250); 
+}
+
+.portfolio-item img {
+    display: inline-block; 
+    width:200px; 
+    height: auto; 
+    padding: 10px; 
+    border: 1px solid purple; 
+}
+
+.portfolio-item a {
+    color: black; 
+}
+
+.flex-parent {
+    display: flex; 
+    flex-wrap: wrap; 
+}
+
+.flex-child-with-image:first-child {
+    width: 75%;
+}
+
+.flex-child-with-image:not(:first-child) {
+    flex: 1;
+    margin-left: 100px; 
+}
+
+.flex-child {
+    flex: 1; 
+    margin: 20px; 
+}
+
+.code-snip {
+    position: relative; 
+    top: 150px; 
+    background-color: black; 
+    color: white; 
+    padding: 10px; 
+    border-radius: 10px; 
+    border: 1px solid lime; 
+    height: 750px; 
+    overflow: scroll; 
+}
+
+.portfolio-item object {
+    width: 500px; 
+    height: 500px; 
+}
+
+.portfolio-item video {
+    width: 500px; 
+    height: 500px; 
+}
+
+.grid-row {
+    display: flex; 
+    flex-direction: row; 
+    flex-wrap: wrap; 
+}
+
+.grid-col {
+    width: 500px !important;
+    height: 500px !important;  
+    margin: 50px; 
+}
+
+#web-dev-logos {
+    width: 300px; 
+}

@@ -1,0 +1,45 @@
+import './App.css';
+import Header from '../Header/Header';
+import PortfolioItem from '../PortfolioItem/PortfolioItem'; 
+import Footer from '../Footer/Footer';
+import About from '../About/About';
+
+import september from '../PortfolioItemSpecifications/sept';
+import october from '../PortfolioItemSpecifications/oct'; 
+
+function App() {
+  return (
+    <div className="App">
+      <Header />
+      <main>
+        <section id = "portfolio" >
+          <h2>Capstone Portfolio</h2>
+          <ul>
+            <li>
+              <a href = '#september'>September</a>
+            </li>
+            <li>
+            <a href = '#october'>October</a>
+            </li>
+          </ul>
+          <PortfolioItem id = 'september' title = "September: Learn C++" content = {september} />
+          <PortfolioItem id = 'october' title = "October: Learn Web Development" content = {october} />
+        </section>
+        <section id = "writeups">
+          <h2>WriteUps</h2>
+          <p>Coming soon!</p>
+        </section>
+        <section id = "in-progress">
+          <h2>What I'm Working On</h2>
+          <p>The Legend on Calculus 2D RPG in Unity and Prudentor Language-Flashcards mobile app! Details to be added soon!</p>
+        </section>
+        <About />
+      </main>
+      <footer>
+        <Footer />
+      </footer>
+    </div>
+  );
+}
+
+export default App;
