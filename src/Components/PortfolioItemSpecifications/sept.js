@@ -3,8 +3,6 @@ import React from 'react';
 import clogo from '../../Assets/c++logo.png';
 import cpdf from '../../Assets/C++.pdf';
 import cpresentationstatic from '../../Assets/C++PresentationStatic.pdf';
-import stonks from '../../Assets/strpoisoning.mov';
-import tetris from '../../Assets/tetris.mp4';
 
 let introText = (`C++ is a high level programming language that expanded upon the functionality of it's predecessor C by adding support for object oriented programming features. 
 
@@ -187,11 +185,11 @@ let september = (
             <div className = 'grid-row'>
                 <div className = 'grid-col'>
                     <p>Stonks Demo</p>
-                    <video src = {stonks}  controls></video>
+                    <video src = 'https://youtu.be/DEx_ZdTyDXI'  controls></video>
                 </div>
                 <div className = 'grid-col'>
                     <p>Tetris Demo</p>
-                    <video src = {tetris} controls></video>
+                    <video src = 'https://youtu.be/lnWW9vLf794' controls></video>
                 </div>
             </div>
         </div>
