@@ -187,7 +187,7 @@ let october = (
             <div className ='flex-grid'>
                 <div className = 'grid-row'>
                     <iframe className = 'grid-col' title = 'Web Development Presentation' src="https://docs.google.com/presentation/d/e/2PACX-1vSkwV6cNWgkT6tGvod3XClb-uGBwlevVyUIVafyQ_XAtnsFEo36W-19SyWcdeNlWJG31M3WvmMTPS6g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-                    <video className = 'grid-col' src = ''>Demo Video</video>
+                    <iframe src = 'https://youtu.be/URWzN8r7owI' className = 'grid-col' title = 'web dev vid'></iframe>
                 </div>
             </div>
         </section>

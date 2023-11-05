@@ -185,11 +185,11 @@ let september = (
             <div className = 'grid-row'>
                 <div className = 'grid-col'>
                     <p>Stonks Demo</p>
-                    <video src = 'https://youtu.be/DEx_ZdTyDXI'  controls></video>
+                    <iframe src = 'https://youtu.be/DEx_ZdTyDXI' title = 'stonksVideo' width="420" height="315"></iframe>
                 </div>
                 <div className = 'grid-col'>
                     <p>Tetris Demo</p>
-                    <video src = 'https://youtu.be/lnWW9vLf794' controls></video>
+                    <iframe src = 'https://youtu.be/lnWW9vLf794' title = 'tetrisVideo' width="420" height="315"></iframe>
                 </div>
             </div>
         </div>

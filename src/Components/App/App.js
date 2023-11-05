@@ -37,9 +37,7 @@ function App() {
         </section>
         <About />
       </main>
-      <footer>
-        <Footer />
-      </footer>
+      <Footer />
     </div>
   );
 }

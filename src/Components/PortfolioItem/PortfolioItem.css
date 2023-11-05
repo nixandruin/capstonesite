@@ -54,11 +54,6 @@
     height: 500px; 
 }
 
-.portfolio-item video {
-    width: 500px; 
-    height: 500px; 
-}
-
 .grid-row {
     display: flex; 
     flex-direction: row; 
