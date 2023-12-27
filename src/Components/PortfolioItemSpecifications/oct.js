@@ -122,7 +122,7 @@ let october = (
                     </p>
                 </div>
 
-                <img id = 'web-dev-logos' className = 'flex-child-with0image' src = {webDevLogos} alt = 'logos' />
+                <img id = 'web-dev-logos' className = "flex-child-with-0image" src = {webDevLogos} alt = 'logos' />
             </div>
 
             <h4>Why I Learned Web Development</h4>
