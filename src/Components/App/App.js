@@ -40,7 +40,7 @@ function App() {
           <h2>What I'm Working On</h2>
           <p>The Legend on Calculus 2D RPG in Unity and Prudentor Language-Flashcards mobile app! Details to be added soon!</p>
           <p>SANS 401 GSEC Certification - Exam Friday December 29 </p>
-          <p>Building a solar panel generator</p>
+          <p>Building a solar panel generator.</p>
         </section>
         <About />
       </main>
