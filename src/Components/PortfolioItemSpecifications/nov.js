@@ -1,5 +1,6 @@
 import React from 'react'; 
 import unityLogo from '../../Assets/unityLogo.png'; 
+import gameDevNotes from '../../Assets/gameDevNotes.pdf'; 
 
 let november = (
     <div id = "outer-div-here">
@@ -61,7 +62,7 @@ let november = (
                 </ul>
             </div>
             <figure className = "flex-child">
-                <p>I still LOVE flex box ):)</p>
+                <object data = {gameDevNotes} type = 'application/pdf' aria-label = 'web dev notes'/>
             </figure>
         </section>
 
@@ -74,16 +75,22 @@ let november = (
                     <li><strong>Portals</strong>: my attempt at designing a very simple platformer from scratch. I found my own free assets, coded the logic for movements and the portal functionality myself.</li>
                 </ol>
             </div>
-            <div className = "flex-child">
-                <iframe title = "Hopper" id='webgl_iframe' frameborder="0" allow="autoplay; fullscreen; vr" allowfullscreen="" allowvr=""
-        mozallowfullscreen="true" src="https://play.unity.com/webgl/33d87728-b557-43a5-a1aa-92fc4bf3774f?screenshot=false&embedType=embed"  width="810"
-        height="640" onmousewheel="" webkitallowfullscreen="true"></iframe>
-            </div>
             <div className  = "flex-child">
                 <iframe title = "flappybird" id='webgl_iframe' frameborder="0" allow="autoplay; fullscreen; vr" allowfullscreen="" allowvr=""
         mozallowfullscreen="true" src="https://play.unity.com/webgl/90708b77-6750-4cb8-a35e-f62189aad2f3?screenshot=false&embedType=embed"  width="810"
         height="640" onmousewheel="" webkitallowfullscreen="true"></iframe>
             </div>
+            <div className = "flex-child">
+                <iframe title = "Hopper" id='webgl_iframe' frameborder="0" allow="autoplay; fullscreen; vr" allowfullscreen="" allowvr=""
+        mozallowfullscreen="true" src="https://play.unity.com/webgl/33d87728-b557-43a5-a1aa-92fc4bf3774f?screenshot=false&embedType=embed"  width="810"
+        height="640" onmousewheel="" webkitallowfullscreen="true"></iframe>
+            </div>
+        </section>
+        <section className = "flex-parent learning-showcase">
+            <iframe className = "flex-child" title = "pres" src="https://docs.google.com/presentation/d/e/2PACX-1vQkt0YAbZvXrM6pvw_RwQJSGG-GT0JtjjZBSkpS7T2m8h2OuTK8tDhREoQNVX3R6FIx7_peMwkh1BRt/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+            <iframe className = "flex-child" src = "https://youtu.be/PPIwYBHJgCs" title = "portals demo"/>
+            <iframe className = "flex-child" src = "https://youtu.be/EL3zh3bTgig" title = "showcase thing" />
+
         </section>
 
     </div>

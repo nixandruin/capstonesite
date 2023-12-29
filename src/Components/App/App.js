@@ -34,14 +34,13 @@ function App() {
         </section>
         <section id = "writeups">
           <h2>WriteUps</h2>
-          <p>I did some CyberStart writeups! Don't think I'm supposed to share them while the competition is ongoing though so... come back later?</p>
+          <p>CyberStart writeups</p>
         </section>
         <section id = "in-progress">
           <h2>What I'm Working On</h2>
           <p>The Legend on Calculus 2D RPG in Unity and Prudentor Language-Flashcards mobile app! Details to be added soon!</p>
           <p>SANS 401 GSEC Certification - Exam Friday December 29 </p>
           <p>Building a solar panel generator</p>
-          <p>Surviving</p>
         </section>
         <About />
       </main>
