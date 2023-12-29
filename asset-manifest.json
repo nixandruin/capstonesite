@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/capstonesite/static/css/main.d3126923.css",
-    "main.js": "/capstonesite/static/js/main.9d945a0c.js",
+    "main.js": "/capstonesite/static/js/main.d04a0394.js",
     "static/js/787.3d78ed4e.chunk.js": "/capstonesite/static/js/787.3d78ed4e.chunk.js",
     "static/media/webDevNotes.pdf": "/capstonesite/static/media/webDevNotes.a3cde9abc5143b45cae6.pdf",
+    "static/media/gameDevNotes.pdf": "/capstonesite/static/media/gameDevNotes.9b3836363256cc73259c.pdf",
     "static/media/C++.pdf": "/capstonesite/static/media/C++.65936e352dabd2bebd91.pdf",
     "static/media/newyorkme.jpg": "/capstonesite/static/media/newyorkme.b5249cbbea83c29a6d65.jpg",
     "static/media/piper.jpg": "/capstonesite/static/media/piper.953cdf52288e7e8d150e.jpg",
@@ -15,11 +16,11 @@
     "static/media/c++logo.png": "/capstonesite/static/media/c++logo.deea080982235487062f.png",
     "index.html": "/capstonesite/index.html",
     "main.d3126923.css.map": "/capstonesite/static/css/main.d3126923.css.map",
-    "main.9d945a0c.js.map": "/capstonesite/static/js/main.9d945a0c.js.map",
+    "main.d04a0394.js.map": "/capstonesite/static/js/main.d04a0394.js.map",
     "787.3d78ed4e.chunk.js.map": "/capstonesite/static/js/787.3d78ed4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3126923.css",
-    "static/js/main.9d945a0c.js"
+    "static/js/main.d04a0394.js"
   ]
 }
