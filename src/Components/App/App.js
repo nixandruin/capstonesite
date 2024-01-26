@@ -7,6 +7,7 @@ import About from '../About/About';
 import september from '../PortfolioItemSpecifications/sept';
 import october from '../PortfolioItemSpecifications/oct'; 
 import november from '../PortfolioItemSpecifications/nov';
+import january from '../PortfolioItemSpecifications/jan';
 
 //wow I changed this file PLEASE commit 
 
@@ -27,10 +28,14 @@ function App() {
             <li>
               <a href = "#november">November</a>
             </li>
+            <li>
+              <a href = "#january">January</a>
+            </li>
           </ul>
           <PortfolioItem id = 'september' title = "September: Learn C++" content = {september} />
           <PortfolioItem id = 'october' title = "October: Learn Web Development" content = {october} />
           <PortfolioItem id = 'november' title = "November: Learn Unity" content = {november} />
+          <PortfolioItem id = 'january' title = "January: Learn Network Device Configuration" content = {january} />
         </section>
         <section id = "writeups">
           <h2>WriteUps</h2>
