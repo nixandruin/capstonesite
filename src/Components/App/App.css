@@ -26,3 +26,8 @@ h5 {
 * {
     max-width: 100% !important; 
 }
+
+#finalProject {
+    text-align: center; 
+    font-size: 60px; 
+}
