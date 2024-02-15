@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/capstonesite/static/css/main.d3126923.css",
-    "main.js": "/capstonesite/static/js/main.dea8e9a3.js",
+    "main.css": "/capstonesite/static/css/main.3a6008ff.css",
+    "main.js": "/capstonesite/static/js/main.07460d2a.js",
     "static/js/787.3d78ed4e.chunk.js": "/capstonesite/static/js/787.3d78ed4e.chunk.js",
     "static/media/networkDeviceConfigNotes.pdf": "/capstonesite/static/media/networkDeviceConfigNotes.11e5c82e3a078240b1ea.pdf",
     "static/media/webDevNotes.pdf": "/capstonesite/static/media/webDevNotes.a3cde9abc5143b45cae6.pdf",
@@ -11,17 +11,18 @@
     "static/media/piper.jpg": "/capstonesite/static/media/piper.953cdf52288e7e8d150e.jpg",
     "static/media/C++PresentationStatic.pdf": "/capstonesite/static/media/C++PresentationStatic.3cdf6fcecd2f21300f85.pdf",
     "static/media/logo.png": "/capstonesite/static/media/logo.83f92f26e7b64c23ec9e.png",
+    "static/media/capstonePlanning.pdf": "/capstonesite/static/media/capstonePlanning.99b35392946c463c8ff3.pdf",
     "static/media/banner.jpg": "/capstonesite/static/media/banner.56c77bc7a3d2b2253588.jpg",
     "static/media/weblogos.png": "/capstonesite/static/media/weblogos.847d2703101affd1ca9a.png",
     "static/media/unityLogo.png": "/capstonesite/static/media/unityLogo.a089482e2562e71d305b.png",
     "static/media/c++logo.png": "/capstonesite/static/media/c++logo.deea080982235487062f.png",
     "index.html": "/capstonesite/index.html",
-    "main.d3126923.css.map": "/capstonesite/static/css/main.d3126923.css.map",
-    "main.dea8e9a3.js.map": "/capstonesite/static/js/main.dea8e9a3.js.map",
+    "main.3a6008ff.css.map": "/capstonesite/static/css/main.3a6008ff.css.map",
+    "main.07460d2a.js.map": "/capstonesite/static/js/main.07460d2a.js.map",
     "787.3d78ed4e.chunk.js.map": "/capstonesite/static/js/787.3d78ed4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3126923.css",
-    "static/js/main.dea8e9a3.js"
+    "static/css/main.3a6008ff.css",
+    "static/js/main.07460d2a.js"
   ]
 }
