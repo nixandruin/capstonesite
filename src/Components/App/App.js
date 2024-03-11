@@ -9,6 +9,7 @@ import october from '../PortfolioItemSpecifications/oct';
 import november from '../PortfolioItemSpecifications/nov';
 import january from '../PortfolioItemSpecifications/jan';
 import february from '../PortfolioItemSpecifications/feb';
+import march from '../PortfolioItemSpecifications/march';
 
 //wow I changed this file PLEASE commit 
 
@@ -45,6 +46,7 @@ function App() {
           <PortfolioItem id = 'january' title = "January: Learn Network Device Configuration" content = {january} />
           <h3 id = 'finalProject'>The Final Project Begins!</h3>
           <PortfolioItem id = "february" title = "February: Capstone Project Planning" content = {february} />
+          <PortfolioItem id = "march" title = "March: Capstone Project Design" content = {march} />
         </section>
         <section id = "writeups">
           <h2>WriteUps</h2>
