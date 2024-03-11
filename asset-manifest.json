@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/capstonesite/static/css/main.3a6008ff.css",
-    "main.js": "/capstonesite/static/js/main.6444f4da.js",
+    "main.js": "/capstonesite/static/js/main.cfb0aef3.js",
     "static/js/787.3d78ed4e.chunk.js": "/capstonesite/static/js/787.3d78ed4e.chunk.js",
     "static/media/networkDeviceConfigNotes.pdf": "/capstonesite/static/media/networkDeviceConfigNotes.11e5c82e3a078240b1ea.pdf",
     "static/media/webDevNotes.pdf": "/capstonesite/static/media/webDevNotes.a3cde9abc5143b45cae6.pdf",
     "static/media/gameDevNotes.pdf": "/capstonesite/static/media/gameDevNotes.9b3836363256cc73259c.pdf",
     "static/media/C++.pdf": "/capstonesite/static/media/C++.65936e352dabd2bebd91.pdf",
+    "static/media/projectDesign.pdf": "/capstonesite/static/media/projectDesign.1f9b816e58290c0d48f6.pdf",
     "static/media/newyorkme.jpg": "/capstonesite/static/media/newyorkme.b5249cbbea83c29a6d65.jpg",
     "static/media/piper.jpg": "/capstonesite/static/media/piper.953cdf52288e7e8d150e.jpg",
     "static/media/C++PresentationStatic.pdf": "/capstonesite/static/media/C++PresentationStatic.3cdf6fcecd2f21300f85.pdf",
@@ -18,11 +19,11 @@
     "static/media/c++logo.png": "/capstonesite/static/media/c++logo.deea080982235487062f.png",
     "index.html": "/capstonesite/index.html",
     "main.3a6008ff.css.map": "/capstonesite/static/css/main.3a6008ff.css.map",
-    "main.6444f4da.js.map": "/capstonesite/static/js/main.6444f4da.js.map",
+    "main.cfb0aef3.js.map": "/capstonesite/static/js/main.cfb0aef3.js.map",
     "787.3d78ed4e.chunk.js.map": "/capstonesite/static/js/787.3d78ed4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a6008ff.css",
-    "static/js/main.6444f4da.js"
+    "static/js/main.cfb0aef3.js"
   ]
 }
