@@ -10,6 +10,7 @@ import november from '../PortfolioItemSpecifications/nov';
 import january from '../PortfolioItemSpecifications/jan';
 import february from '../PortfolioItemSpecifications/feb';
 import march from '../PortfolioItemSpecifications/march';
+import capstone from '../PortfolioItemSpecifications/capstone';
 
 //wow I changed this file PLEASE commit 
 
@@ -39,6 +40,12 @@ function App() {
             <li>
               <a href = "#february">February</a>
             </li>
+            <li>
+              <a href = "#march">March</a>
+            </li>
+            <li>
+              <a href = "#capstone">April + May</a>
+            </li>
           </ul>
           <PortfolioItem id = 'september' title = "September: Learn C++" content = {september} />
           <PortfolioItem id = 'october' title = "October: Learn Web Development" content = {october} />
@@ -47,6 +54,7 @@ function App() {
           <h3 id = 'finalProject'>The Final Project Begins!</h3>
           <PortfolioItem id = "february" title = "February: Capstone Project Planning" content = {february} />
           <PortfolioItem id = "march" title = "March: Capstone Project Design" content = {march} />
+          <PortfolioItem id = "capstone" title = "April + May: Capstone Project Development and Evaulation" content = {capstone}/>
         </section>
         <section id = "writeups">
           <h2>WriteUps</h2>
