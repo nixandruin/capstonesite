@@ -9,8 +9,12 @@ let capstone = (
                 <h4>CS Capstone Evaluation</h4>
                 <object data = {capstoneEvaluation} type = 'application/pdf' aria-label = 'cs capstone evaluation doc'/>
             </div>
-            <div className = "flex-child">
-                <iframe className = "flex-child" src = "" title = "showcase thing" />
+            <div className = "flex-child learning-showcase">
+                <h4>Final Project Video Demo</h4>
+                <figure>
+                    <iframe className = "video" src = "https://youtu.be/-2BYCkKAeQI" title = "showcase thing" />
+                    <figcaption>https://youtu.be/-2BYCkKAeQI</figcaption>
+                </figure>
             </div>
         </section>
     </div>
