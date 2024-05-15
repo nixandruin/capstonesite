@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/capstonesite/static/css/main.3a6008ff.css",
-    "main.js": "/capstonesite/static/js/main.ce16b8e3.js",
+    "main.css": "/capstonesite/static/css/main.0f649dec.css",
+    "main.js": "/capstonesite/static/js/main.cf7dc9b9.js",
     "static/js/787.3d78ed4e.chunk.js": "/capstonesite/static/js/787.3d78ed4e.chunk.js",
     "static/media/networkDeviceConfigNotes.pdf": "/capstonesite/static/media/networkDeviceConfigNotes.11e5c82e3a078240b1ea.pdf",
     "static/media/webDevNotes.pdf": "/capstonesite/static/media/webDevNotes.a3cde9abc5143b45cae6.pdf",
@@ -19,12 +19,12 @@
     "static/media/unityLogo.png": "/capstonesite/static/media/unityLogo.a089482e2562e71d305b.png",
     "static/media/c++logo.png": "/capstonesite/static/media/c++logo.deea080982235487062f.png",
     "index.html": "/capstonesite/index.html",
-    "main.3a6008ff.css.map": "/capstonesite/static/css/main.3a6008ff.css.map",
-    "main.ce16b8e3.js.map": "/capstonesite/static/js/main.ce16b8e3.js.map",
+    "main.0f649dec.css.map": "/capstonesite/static/css/main.0f649dec.css.map",
+    "main.cf7dc9b9.js.map": "/capstonesite/static/js/main.cf7dc9b9.js.map",
     "787.3d78ed4e.chunk.js.map": "/capstonesite/static/js/787.3d78ed4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a6008ff.css",
-    "static/js/main.ce16b8e3.js"
+    "static/css/main.0f649dec.css",
+    "static/js/main.cf7dc9b9.js"
   ]
 }
